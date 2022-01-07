@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/CraigThomasson/simonTest#readme",
   "devDependencies": {
-    "jest": "^27.4.6"
+    "jest": "^27.4.7"
   }
 }
